@@ -1,1 +1,1 @@
-# Predicting-the-Effectiveness-of-New-Anti-cancer-Drugs-Using-Survival-Analysis-and-Logistic-Regressio
+# Modeling-the-Effectiveness-of-New-Anticancer-Drugs-Using-Survival-Analysis-and-Logistic-Regression
